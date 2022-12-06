@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T22:07:08 IST" name="Default suite" finished-at="2022-11-18T22:07:09 IST" duration-ms="248">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T22:07:08 IST" name="Default test" finished-at="2022-11-18T22:07:09 IST" duration-ms="248">
+      <class name="com.testng.SimpleAnnoation">
+        <test-method is-config="true" signature="subMethod()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:08 IST" name="subMethod" finished-at="2022-11-18T22:07:08 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod -->
+        <test-method is-config="true" signature="subMethod1()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:08 IST" name="subMethod1" finished-at="2022-11-18T22:07:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod1 -->
+        <test-method is-config="true" signature="subMethod2()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:08 IST" name="subMethod2" finished-at="2022-11-18T22:07:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod2 -->
+        <test-method is-config="true" signature="subMethod3()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:09 IST" name="subMethod3" finished-at="2022-11-18T22:07:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod3 -->
+        <test-method signature="subMethod6()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:09 IST" name="subMethod6" finished-at="2022-11-18T22:07:09 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod6 -->
+        <test-method is-config="true" signature="subMethod5()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:09 IST" name="subMethod5" finished-at="2022-11-18T22:07:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod5 -->
+        <test-method is-config="true" signature="subMethod7()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:09 IST" name="subMethod7" finished-at="2022-11-18T22:07:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod7 -->
+        <test-method is-config="true" signature="subMethod8()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:09 IST" name="subMethod8" finished-at="2022-11-18T22:07:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod8 -->
+        <test-method is-config="true" signature="subMethod9()[pri:0, instance:com.testng.SimpleAnnoation@16a0ee18]" started-at="2022-11-18T22:07:09 IST" name="subMethod9" finished-at="2022-11-18T22:07:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod9 -->
+      </class> <!-- com.testng.SimpleAnnoation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
